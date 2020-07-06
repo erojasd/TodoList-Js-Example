@@ -1,0 +1,6 @@
+{
+    "presets": [
+        "@babel/preset-env", //para compatibilidad con navegadores antiguos
+        "minify"  // minificar el js
+    ]
+}
